@@ -1,0 +1,25 @@
+{
+    "cliente": [
+        {
+            "documento": "07242868812",
+            "Nome": "Vitor Ruan",
+            "nome_fantasia": "Vitor Oliveira",
+            "data_nascimento": "2000-01-05",
+            "email": "vitor.test@gmail.com",
+            "telefone": "15996675273",
+            "tipo_pessoa": "F",
+            "Ativo": true
+        }
+    ],
+    "conta_bancaria": [
+        {
+            "IdContaCliente": 1,
+            "DocumentoCliente": "07242868812",
+            "CodigoBanco": "001",
+            "Agencia": "1234",
+            "NumeroConta": "000123456789",
+            "TipoConta": "CORRENTE",
+            "Ativo": true
+        }
+    ]
+}
